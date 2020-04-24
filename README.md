@@ -1,2 +1,2 @@
 # homework-1
-Homework for Module 1
+This is my very first homework assignment for BCS. I took an existing html site and added semantic HTML elements where necessary, created a logical structure, added alt tages to images, and added a discriptive title.
